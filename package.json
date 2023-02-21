@@ -1,0 +1,15 @@
+{
+  "name": "bootcamp_online_express",
+  "version": "1.0.0",
+  "description": "app express ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "datata",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
